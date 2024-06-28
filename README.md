@@ -8,7 +8,8 @@ Codebase of the BSc thesis by Linfeng Guo "Integrating Explainable AI and Semant
 Our tool S-Eye leverages the attention maps by the explainable AI algorithms SmoothGrad or Faster-ScoreCAM and the segmentation maps by a U-Net model. By 'Merging' both maps together road attentions and background attentions can be distinguished and turn them into a confidence score to automatically predict incoming failures of a DNN-based autonomous driving system (ADS). The figure below shows the attention maps of a confident ADS.
 
 
-#incomming
+#incomming image and results 
+
 <img src="images/nominal.gif" height="200" />
 
 
