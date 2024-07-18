@@ -41,7 +41,7 @@ Furthermore, for training the N-Net mode you additionally need to install Python
 
 ### Datasets & Simulator
 
-Driving datasets, self-driving car models, and simulator have a combined size of several GBs. We will share them on demand.
+Driving datasets, self-driving car models, and simulator have a combined size of several GBs. All the Datasets can be found here: https://drive.google.com/drive/folders/18Bya6gTL_3H0UM0QG89TxCRRDfE9RiPf?usp=sharing
 
 ### Mutants
 
