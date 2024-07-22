@@ -67,6 +67,7 @@ We use the following mutation operators:
 * udacity_change_loss_function_mutated0_MP_mean_absolute_error_2
 
 ##Instruction
+* Manually changing each import Lib is needed  
 * For U_Net model, run 'segmentation/train'
 * For XAI, run 'xai/heatmap'. Both SmoothGrad and Faster-ScoreCAM are included 
  
